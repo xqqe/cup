@@ -1,7 +1,7 @@
 # Copyright (c) 2022 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
-if SHIELD_MLEGO2x2_REV2
+if SHIELD_MLEGO2x2_REV1
 
 config ZMK_KEYBOARD_NAME
     default "cup"
@@ -49,5 +49,6 @@ choice LV_COLOR_DEPTH
 endchoice
 
 endif # LVGL
+
 
 endif # SHIELD_MLEGO2x2
