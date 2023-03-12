@@ -4,7 +4,7 @@ name: cup
 type: shield
 url: mlego.elena.space
 requires:
-  - seeduino_xiao_rp2040
+  - seeduino_xiao_nrf52840
 exposes:
   - i2c_encoder
   - i2c_oled

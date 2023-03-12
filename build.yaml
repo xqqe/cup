@@ -13,6 +13,6 @@
 #
 ---
 include:
-  - board: seeeduino_xiao_rp2040
+  - board: seeeduino_xiao_nrf52840
     shield: cup
 
