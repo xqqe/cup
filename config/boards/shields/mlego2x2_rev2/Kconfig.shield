@@ -2,4 +2,4 @@
 # SPDX-License-Identifier: MIT
 
 config SHIELD_MLEGO2x2_REV2
-   def_bool $(shields_list_contains,mlego2x2_rev2)
+   def_bool $(shields_list_contains,cup)

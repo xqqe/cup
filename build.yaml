@@ -14,5 +14,5 @@
 ---
 include:
   - board: seeeduino_xiao_rp2040
-    shield: mlego2x2_rev2
+    shield: cup
 
