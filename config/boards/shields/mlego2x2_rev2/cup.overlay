@@ -8,7 +8,7 @@
 
 / {
    model = "mlego m4, rev2";
-   compatible = "mlego", "seeduino,xiao_rp2040";
+   compatible = "mlego", "seeeduino_xiao_ble";
 
    chosen {
      zmk,kscan = &kscan;
